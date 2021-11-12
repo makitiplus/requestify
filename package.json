@@ -1,0 +1,28 @@
+{
+  "name": "@makitiplus/requestify",
+  "version": "1.1.0",
+  "description": "Wrapper around ws module, that allows using web sockets, in a request/response context",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makitiplus/requestify.git"
+  },
+  "keywords": [
+    "web",
+    "sockets",
+    "ws",
+    "requestify"
+  ],
+  "author": "necktie01@makitiplus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makitiplus/requestify/issues"
+  },
+  "homepage": "https://github.com/makitiplus/requestify#readme",
+  "dependencies": {
+    "randomstring": "^1.2.1"
+  }
+}
